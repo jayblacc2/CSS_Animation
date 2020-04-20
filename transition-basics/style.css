@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 2rem;
+}
+
+div {
+  background-color: orangered;
+  font-size: 0.9rem;
+  width: 150px;
+  height: 50px;
+  padding: 1rem 15px;
+  margin-bottom: 1.2rem;
+  border-radius: 10px;
+  text-align: center;
+  cursor: pointer;
+  color: #fff;
+  transform: translate(0);
+}
+
+div.first {
+}
+
+first:hover {
+  transform: translate(0, 900px);
+}
+div.second {
+}
+div.third {
+}
+
+div.forth {
+}
+div.fifth {
+}
